@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **liuli1735/liuli1735** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,6 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🎥 You may also want to look at my ...
 -->
 
 <h1 align="center">Hi 👋, I'm li</h1>
@@ -26,7 +25,7 @@ Here are some ideas to get you started:
 
 <h1></h1>
   
-- 📝 I regularly write [blog posts](https://www.cesarsotovalero.net/blog) about research and software technology
+- 📝 I regularly write [blog posts](https://liuli1735.github.io) about research and software technology
   
-- 🎥 You may also want to look at my [YouTube channel](https://www.youtube.com/channel/UCR4rI98w6-MqYoCS6jR9LGg)
-
+![info](https://github-readme-stats.vercel.app/api?username=liuli1735&show_icons=true&hide_border=true&count_private=true&theme=default_repocard&include_all_commits=true&hide_title=false&hide_rank=false)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liuli1735&hide_border=true&layout=compact&text_color=151515&bg_color=fefefe&hide_title=false&card_width=210)](https://github.com/zengfr)
