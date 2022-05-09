@@ -27,5 +27,5 @@ Here are some ideas to get you started:
   
 - 📝 I regularly write [blog posts](https://liuli1735.github.io) about research and software technology
   
-![Li's GitHub stats](https://github-readme-stats.vercel.app/api?username=liuli1735&show_icons=true&hide_border=true&count_private=true&theme=default_repocard&hide_title=false&hide_rank=false)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liuli1735&hide_border=true&layout=compact&text_color=151515&bg_color=fefefe&hide_title=false&card_width=210)]
+![Li's GitHub stats](https://github-readme-stats.vercel.app/api?username=liuli1735&show_icons=true&hide=prs&hide_border=true&count_private=true&theme=default_repocard&hide_title=false&hide_rank=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liuli1735&hide_border=true&layout=compact&text_color=151515&bg_color=fefefe&hide_title=false&card_width=210)
