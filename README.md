@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm li</h1>
-<h3 align="center">A Ph.D. student doing research in software technology</h3>
+<h3 align="center">a Quant | major in Finance</h3>
 <p align="center" style="border-bottom: 1px solid; border-bottom-color: #D8DEE4;>
                          
 <a href="https://liuli1735.github.io" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.1.1/svgs/solid/blog.svg" alt="blog" height="30" width="40" /></a>
