@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <p align="center" style="border-bottom: 1px solid; border-bottom-color: #D8DEE4;>
                          
 <a href="https://liuli1735.github.io" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.1.1/svgs/solid/blog.svg" alt="blog" height="30" width="40" /></a>
-<a href="https://twitter.com/ll1735" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.1.1/svgs/brands/twitter.svg" alt="twitter" height="30" width="40" /></a>
+<a href="https://twitter.com/liuli1991" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.1.1/svgs/brands/twitter.svg" alt="twitter" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ll1735/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.1.1/svgs/brands/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
 <p>
 
